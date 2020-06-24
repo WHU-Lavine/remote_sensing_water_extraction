@@ -1,0 +1,2 @@
+# remote_sensing_water_extraction
+基于全局局部阈值方法的遥感影像水体提取
